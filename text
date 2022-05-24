@@ -1,4 +1,3 @@
-Text
 
 Under the overall supervision of Team Lead ensure that cyber security alerts from the SIEM and multiple sources are dealt with by the entire team within SLA. Communicate and escalate as per defined process.
 
@@ -44,4 +43,15 @@ Perform static and dynamic malware analysis  using tools(Wireshark, PE Studio, P
 
 Manage cyber-threat related requests coming from client by collecting all the necessary information, responding to standard requests and escalating complex issues.
 
-Perform automated and manual hands-on penetration security testing, identifying security risks within web applications.
+Perform automated and manual hands-on penetration security testing, identifying security risks within web applications
+
+-----------
+nvestigates deeper on the detected behavioral anomalies when an incident is escalated by the SOC level 1 analyst. Add context to the incident to understand the behavior, analyzing data from multiple tools and data sources
+
+Apply research techniques to collect, organize, synthesize, and summarize open source intelligence data from multiple sources in order to provide actionable information to decision makers
+
+Participated in conference calls and onsite meetings for internal product development and support to gather data, scope new and existing work, evaluate or
+
+Creating alerts, dashboards, reports and writing correlation rule in Splunk
+-------Working with customers – requirement gathering, on-boarding, technical discussions, report walk-throughs.------
+
